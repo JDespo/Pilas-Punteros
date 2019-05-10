@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1557493496 source:c:\users\administrador\desktop\utn 2019\programacion 2\pilasenc\main.c
+	<stdio.h>
+	"funciones.h"
+
+1557493496 source:c:\users\administrador\desktop\utn 2019\programacion 2\pilasenc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1557450683 c:\users\administrador\desktop\utn 2019\programacion 2\pilasenc\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1557456139 c:\users\administrador\desktop\utn 2019\programacion 2\pilasenc\funciones.h
+
